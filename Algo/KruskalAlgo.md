@@ -1,3 +1,5 @@
+Time Complexity: O(ElogE+ElogV)
+
 Algorithm for Kruskal's MST
 Input:
 
